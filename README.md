@@ -12,6 +12,8 @@ The following files in the repository contain the final code of our work:
 
 In order to get the code running, download the original data from the KPA Shared task 2021 and store all files (dev,train,test) in one data folder.
 
+As another experiment, please go to Success_train_RoBERTa and Transformers_training_on_STS_or_Args30k_dataset_and_then_on_main_dataset.
+
 
 - Final Report:  key-point-analysis-and-explanations-for-quantitative-text-analysis.pdf
 - Final Presentation: Final_presentation.pptx
